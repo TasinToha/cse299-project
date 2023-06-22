@@ -1,6 +1,6 @@
 # NSU Campus Companion
 
-NSU Campus Companion is a web application designed to enhance the social experience of students at our university. It provides a platform for students to create profiles, connect with others, and engage in various social activities and events. This README file provides an overview of the project and instructions for getting started.
+NSU Campus Companion is a web application designed to enhance the social experience of students at our university. It provides a platform for students to create profiles, connect with others, and engage in various social activities and events.
 
 ## Features
 
